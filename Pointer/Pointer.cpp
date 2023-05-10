@@ -26,4 +26,4 @@ int main()
 	pMhs->showNim();
 	system("pause");
 	return 0;
-}
+} 
