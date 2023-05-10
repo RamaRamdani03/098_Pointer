@@ -16,3 +16,5 @@ int main()
 	mhs->showNim();
 	delete mhs;
 	system("pause");
+	return 0;
+}
