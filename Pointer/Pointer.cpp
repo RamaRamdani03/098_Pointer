@@ -8,3 +8,6 @@ public:
 };
 
 
+void mahasiswa::showNim() {		//implementasi method diluar class
+	cout << "No Induk = " << nim << endl;
+}
