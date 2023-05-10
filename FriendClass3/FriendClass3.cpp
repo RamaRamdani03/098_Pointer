@@ -8,3 +8,7 @@ class manusia {
 public:
 	void showNilaipelajar(pelajar&);
 };
+
+class pelajar {
+private:
+	int nilai;
